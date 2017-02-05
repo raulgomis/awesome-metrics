@@ -10,7 +10,8 @@ Contributions are always welcome!
 * [Telegraf](https://docs.influxdata.com/telegraf/) - The plugin-driven server agent for collecting & reporting metrics.
 * [Statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation.
 * [Diamond](http://diamond.readthedocs.io/) - Python daemon that collects system metrics and publishes them to Graphite (and others).
-* [Phantomas](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool.
+* [Phantomas](https://github.com/macbre/phantomas/) - PhantomJS-based web performance metrics collector and monitoring tool.
+* [Logster](https://github.com/etsy/logster/) - Parse log files, generate metrics for Graphite and Ganglia.
 
 ## Metrics databases
 * [InfluxDB](https://influxdata.com) - Scalable datastore for metrics, events, and real-time analytics.
