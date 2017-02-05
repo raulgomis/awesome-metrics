@@ -27,6 +27,9 @@ Contributions are always welcome!
 ## Metrics frameworks
 * [Dropwizard](http://www.dropwizard.io/) - Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services.
 * [Stagemonitor](http://www.stagemonitor.org/) - An open source solution to application performance monitoring for java server applications.
+* [Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/) - Sub-project of Spring Boot that provides endpoints allow you to monitor and interact with your application: health, metrics, etc.
+* [Metrics](https://github.com/mikejihbe/metrics/) - A node.js port of codahale's metrics library.
+* [Go-metrics](https://github.com/rcrowley/go-metrics) - A Go port of codehale's metrics library.
 
 ## Real world dashboards
 
