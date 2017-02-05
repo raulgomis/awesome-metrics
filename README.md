@@ -16,7 +16,8 @@ Contributions are always welcome!
 * [InfluxDB](https://influxdata.com) - Scalable datastore for metrics, events, and real-time analytics.
 * [Prometheus](https://prometheus.io/) - Monitoring system and time series database. 
 * [Kenshin](https://github.com/douban/Kenshin/) - A time-series database alternative to Graphite Whisper with 40x improvement in IOPS.
-* [Metrictank](https://github.com/raintank/metrictank) - Cassandra-backed, metrics2.0 based, multi-tenant timeseries database for Graphite and friends.
+* [Metrictank](https://github.com/raintank/metrictank/) - Cassandra-backed, metrics2.0 based, multi-tenant timeseries database for Graphite and friends.
+* [Whisper](https://github.com/graphite-project/whisper/) - File-based time-series database format for Graphite.
 
 ## Metrics UI
 * [Grafana](http://grafana.org/) - Beautiful metric & analytic dashboards.
