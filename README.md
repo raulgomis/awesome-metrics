@@ -27,7 +27,7 @@ Contributions are always welcome!
 * [Dropwizard](http://www.dropwizard.io/) - Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services.
 * [Stagemonitor](http://www.stagemonitor.org/) - An open source solution to application performance monitoring for java server applications.
 
-## Real world examples dashboards
+## Real world dashboards
 
 * [Gitlab](http://monitor.gitlab.net/) - Gitlab monitor dashboard: CI, HAProxy, Postgres, Redis, etc.
 * [Percona](https://pmmdemo.percona.com/graph/dashboard/db/pmm-demo) - Percona Monitoring and Management: MongoDB, MySQL, Prometheus, etc.
