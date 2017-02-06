@@ -15,9 +15,12 @@ Contributions are always welcome!
 
 ## Metrics databases
 * [InfluxDB](https://influxdata.com) - Scalable datastore for metrics, events, and real-time analytics.
-* [Prometheus](https://prometheus.io/) - Monitoring system and time series database. 
+* [KairosDB](http://kairosdb.github.io/) - Cassandra backed time series database, initially a fork of OpenTSDB.
 * [Kenshin](https://github.com/douban/Kenshin/) - A time-series database alternative to Graphite Whisper with 40x improvement in IOPS.
 * [Metrictank](https://github.com/raintank/metrictank/) - Cassandra-backed, metrics2.0 based, multi-tenant timeseries database for Graphite and friends.
+* [OpenTSDB](http://opentsdb.net/) - A time series database running on top of HBase.
+* [Prometheus](https://prometheus.io/) - Monitoring system and time series database. 
+* [Warp 10](http://www.warp10.io/) - Complete (Geo) Time Series platform, handles storage and analytics via a dedicated language called WarpScript. Runs from Raspberry Pi to large clusters on HBase.
 * [Whisper](https://github.com/graphite-project/whisper/) - File-based time-series database format for Graphite.
 
 ## Metrics UI
