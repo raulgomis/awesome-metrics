@@ -7,11 +7,11 @@ Contributions are always welcome!
 
 ## Metrics collectors
 * [Collectd](https://collectd.org/) - Daemon which collects system and application performance metrics periodically and provides mechanisms to store the values in a variety of ways, for example in RRD files.
-* [Telegraf](https://docs.influxdata.com/telegraf/) - The plugin-driven server agent for collecting & reporting metrics.
-* [Statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation.
 * [Diamond](http://diamond.readthedocs.io/) - Python daemon that collects system metrics and publishes them to Graphite (and others).
-* [Phantomas](https://github.com/macbre/phantomas/) - PhantomJS-based web performance metrics collector and monitoring tool.
 * [Logster](https://github.com/etsy/logster/) - Parse log files, generate metrics for Graphite and Ganglia.
+* [Phantomas](https://github.com/macbre/phantomas/) - PhantomJS-based web performance metrics collector and monitoring tool.
+* [Statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation.
+* [Telegraf](https://docs.influxdata.com/telegraf/) - The plugin-driven server agent for collecting & reporting metrics.
 
 ## Metrics databases
 * [InfluxDB](https://influxdata.com) - Scalable datastore for metrics, events, and real-time analytics.
@@ -30,12 +30,11 @@ Contributions are always welcome!
 
 ## Metrics frameworks
 * [Dropwizard](http://www.dropwizard.io/) - Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services.
+* [Go-metrics](https://github.com/rcrowley/go-metrics) - A Go port of codehale's metrics library.
+* [Metrics](https://github.com/mikejihbe/metrics/) - A node.js port of codahale's metrics library.
 * [Stagemonitor](http://www.stagemonitor.org/) - An open source solution to application performance monitoring for java server applications.
 * [Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/) - Sub-project of Spring Boot that provides endpoints allow you to monitor and interact with your application: health, metrics, etc.
-* [Metrics](https://github.com/mikejihbe/metrics/) - A node.js port of codahale's metrics library.
-* [Go-metrics](https://github.com/rcrowley/go-metrics) - A Go port of codehale's metrics library.
 
 ## Real world dashboards
-
 * [Gitlab](http://monitor.gitlab.net/) - Gitlab monitor dashboard: CI, HAProxy, Postgres, Redis, etc.
 * [Percona](https://pmmdemo.percona.com/graph/dashboard/db/pmm-demo) - Percona Monitoring and Management: MongoDB, MySQL, Prometheus, etc.
