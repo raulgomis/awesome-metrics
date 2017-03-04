@@ -11,6 +11,8 @@ Contributions are always welcome!
 * [Metrics frameworks](#metrics-frameworks)
 * [Real world dashboards](#real-world-dashboards)
 
+***
+
 ## Metrics collectors
 * [Collectd](https://collectd.org/) - Daemon which collects system and application performance metrics periodically and provides mechanisms to store the values in a variety of ways, for example in RRD files.
 * [Diamond](http://diamond.readthedocs.io/) - Python daemon that collects system metrics and publishes them to Graphite (and others).
