@@ -22,6 +22,7 @@ Contributions are always welcome!
 * [Telegraf](https://docs.influxdata.com/telegraf/) - The plugin-driven server agent for collecting & reporting metrics.
 
 ## Metrics databases
+* [DalmatinerDB](https://dalmatiner.io/) - Fast distributed metrics database.
 * [InfluxDB](https://influxdata.com) - Scalable datastore for metrics, events, and real-time analytics.
 * [KairosDB](http://kairosdb.github.io/) - Cassandra backed time series database, initially a fork of OpenTSDB.
 * [Kenshin](https://github.com/douban/Kenshin/) - A time-series database alternative to Graphite Whisper with 40x improvement in IOPS.
