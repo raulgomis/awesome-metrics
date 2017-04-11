@@ -1,4 +1,4 @@
-# awesome-metrics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Metrics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome metrics platforms &amp; frameworks, resources and other awesomeness.
 
@@ -10,8 +10,6 @@ Contributions are always welcome!
 * [Metrics UI](#metrics-ui)
 * [Metrics frameworks](#metrics-frameworks)
 * [Real world dashboards](#real-world-dashboards)
-
-***
 
 ## Metrics collectors
 * [Collectd](https://collectd.org/) - Daemon which collects system and application performance metrics periodically and provides mechanisms to store the values in a variety of ways, for example in RRD files.
