@@ -11,7 +11,7 @@ Contributions are always welcome!
 * [Metrics frameworks](#metrics-frameworks)
 * [Real world dashboards](#real-world-dashboards)
 
-## Metrics collectors
+## Metrics Collectors
 * [Collectd](https://collectd.org/) - Daemon which collects system and application performance metrics periodically and provides mechanisms to store the values in a variety of ways, for example in RRD files.
 * [Diamond](http://diamond.readthedocs.io/) - Python daemon that collects system metrics and publishes them to Graphite (and others).
 * [Logster](https://github.com/etsy/logster/) - Parse log files, generate metrics for Graphite and Ganglia.
@@ -19,7 +19,7 @@ Contributions are always welcome!
 * [Statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation.
 * [Telegraf](https://docs.influxdata.com/telegraf/) - The plugin-driven server agent for collecting & reporting metrics.
 
-## Metrics databases
+## Metrics Databases
 * [DalmatinerDB](https://dalmatiner.io/) - Fast distributed metrics database.
 * [InfluxDB](https://influxdata.com) - Scalable datastore for metrics, events, and real-time analytics.
 * [KairosDB](http://kairosdb.github.io/) - Cassandra backed time series database, initially a fork of OpenTSDB.
@@ -35,14 +35,14 @@ Contributions are always welcome!
 * [Graphene](http://jondot.github.io/graphene/) - Realtime dashboard & graphing toolkit based on D3 and Backbone. 
 * [Tessera](http://tessera-metrics.github.io/tessera/) - Dashboard front-end for graphite.
 
-## Metrics frameworks
+## Metrics Frameworks
 * [Dropwizard](http://www.dropwizard.io/) - Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services.
 * [Go-metrics](https://github.com/rcrowley/go-metrics) - Go port of codehale's metrics library.
 * [Metrics](https://github.com/mikejihbe/metrics/) - Node.js port of codahale's metrics library.
 * [Stagemonitor](http://www.stagemonitor.org/) - Open source solution to application performance monitoring for java server applications.
 * [Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/) - Sub-project of Spring Boot that provides endpoints allow you to monitor and interact with your application: health, metrics, etc.
 
-## Real world dashboards
+## Real World Dashboards
 * [Gitlab](http://monitor.gitlab.net/) - Gitlab monitor dashboard: CI, HAProxy, Postgres, Redis, etc.
 * [Percona](https://pmmdemo.percona.com/graph/dashboard/db/pmm-demo) - Percona Monitoring and Management: MongoDB, MySQL, Prometheus, etc.
 
