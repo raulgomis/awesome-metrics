@@ -25,7 +25,7 @@ Contributions are always welcome!
 * [KairosDB](http://kairosdb.github.io/) - Cassandra backed time series database, initially a fork of OpenTSDB.
 * [Kenshin](https://github.com/douban/Kenshin/) - A time-series database alternative to Graphite Whisper with 40x improvement in IOPS.
 * [Metrictank](https://github.com/raintank/metrictank/) - Cassandra-backed, metrics2.0 based, multi-tenant timeseries database for Graphite and friends.
-* [OpenTSDB](http://opentsdb.net/) - A time series database running on top of HBase.
+* [OpenTSDB](http://opentsdb.net/) - Time series database running on top of HBase.
 * [Prometheus](https://prometheus.io/) - Monitoring system and time series database. 
 * [Warp 10](http://www.warp10.io/) - Complete (Geo) Time Series platform, handles storage and analytics via a dedicated language called WarpScript. Runs from Raspberry Pi to large clusters on HBase.
 * [Whisper](https://github.com/graphite-project/whisper/) - File-based time-series database format for Graphite.
@@ -33,15 +33,20 @@ Contributions are always welcome!
 ## Metrics UI
 * [Grafana](http://grafana.org/) - Beautiful metric & analytic dashboards.
 * [Graphene](http://jondot.github.io/graphene/) - Realtime dashboard & graphing toolkit based on D3 and Backbone. 
-* [Tessera](http://tessera-metrics.github.io/tessera/) - A dashboard front-end for graphite.
+* [Tessera](http://tessera-metrics.github.io/tessera/) - Dashboard front-end for graphite.
 
 ## Metrics frameworks
 * [Dropwizard](http://www.dropwizard.io/) - Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services.
-* [Go-metrics](https://github.com/rcrowley/go-metrics) - A Go port of codehale's metrics library.
-* [Metrics](https://github.com/mikejihbe/metrics/) - A node.js port of codahale's metrics library.
-* [Stagemonitor](http://www.stagemonitor.org/) - An open source solution to application performance monitoring for java server applications.
+* [Go-metrics](https://github.com/rcrowley/go-metrics) - Go port of codehale's metrics library.
+* [Metrics](https://github.com/mikejihbe/metrics/) - Node.js port of codahale's metrics library.
+* [Stagemonitor](http://www.stagemonitor.org/) - Open source solution to application performance monitoring for java server applications.
 * [Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/) - Sub-project of Spring Boot that provides endpoints allow you to monitor and interact with your application: health, metrics, etc.
 
 ## Real world dashboards
 * [Gitlab](http://monitor.gitlab.net/) - Gitlab monitor dashboard: CI, HAProxy, Postgres, Redis, etc.
 * [Percona](https://pmmdemo.percona.com/graph/dashboard/db/pmm-demo) - Percona Monitoring and Management: MongoDB, MySQL, Prometheus, etc.
+
+---
+
+## License
+![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
