@@ -23,7 +23,7 @@ Contributions are always welcome!
 * [DalmatinerDB](https://dalmatiner.io/) - Fast distributed metrics database.
 * [InfluxDB](https://influxdata.com) - Scalable datastore for metrics, events, and real-time analytics.
 * [KairosDB](http://kairosdb.github.io/) - Cassandra backed time series database, initially a fork of OpenTSDB.
-* [Kenshin](https://github.com/douban/Kenshin/) - A time-series database alternative to Graphite Whisper with 40x improvement in IOPS.
+* [Kenshin](https://github.com/douban/Kenshin/) - Time-series database alternative to Graphite Whisper with 40x improvement in IOPS.
 * [Metrictank](https://github.com/raintank/metrictank/) - Cassandra-backed, metrics2.0 based, multi-tenant timeseries database for Graphite and friends.
 * [OpenTSDB](http://opentsdb.net/) - Time series database running on top of HBase.
 * [Prometheus](https://prometheus.io/) - Monitoring system and time series database. 
