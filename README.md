@@ -46,6 +46,13 @@ Contributions are always welcome!
 * [Gitlab](http://monitor.gitlab.net/) - Gitlab monitor dashboard: CI, HAProxy, Postgres, Redis, etc.
 * [Percona](https://pmmdemo.percona.com/graph/dashboard/db/pmm-demo) - Percona Monitoring and Management: MongoDB, MySQL, Prometheus, etc.
 
+## Conferences
+* [GrafanaCon](http://grafanacon.org/) - Annual event where the entire Grafana team along with hundreds of monitoring and data aficionados from across the Grafana ecosystem gather to discuss monitoring.
+
+## Videos
+* [GrafanaCon 2016](https://www.youtube.com/playlist?list=PLDGkOdUX1Ujp_6OnJ8M-t59eGPs0rZF4Q) - Playlist of GrafanaCon 2016.
+* [GrafanaCon 2015](https://www.youtube.com/playlist?list=PLDGkOdUX1Ujqc7X4ci07RtqTxGNSBX9uG) - Playlist of GrafanaCon 2015.
+
 ---
 
 ## License
